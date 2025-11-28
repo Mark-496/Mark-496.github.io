@@ -1,3 +1,5 @@
-remote_theme: pages-themes/cayman@v0.2.0
-title: Mark_496
-description: Personal project. For now, in a really primitive state
+title: Cayman theme
+description: Cayman is a clean, responsive theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
